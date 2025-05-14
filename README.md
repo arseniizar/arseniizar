@@ -8,14 +8,31 @@
 _CS student at Polish-Japanese Academy of Information Technology in Warsaw & full-stack developer_
 
 ## Tech stack
+
 - **Languages:**  
-  • JavaScript · TypeScript · Python · C++
+  ![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)  
+  ![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
+  ![](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+
 - **Front-end:**  
-  • React · Angular
+  ![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+  ![](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+
 - **Back-end:**  
-  • Node.js · NestJS · Java · Spring Boot
+  ![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+  ![](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
+  ![](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+  ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+
 - **Databases:**  
-  • MongoDB · Firebase · PostgreSQL
+  ![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+  ![](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+  ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+## Learning
+
+- ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+- ![](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) · .NET
 
 
 ## Current projects
