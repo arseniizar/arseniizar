@@ -1,6 +1,6 @@
 # Hello, I’m Arsenii Zarudniuk
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniizar)](https://github.com/arseniizar)  
+[![Arsenii’s GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniizar&commits_year=2024&show_icons=true)](https://github.com/arseniizar)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arseniizar)](https://github.com/arseniizar)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arsenii-zarudniuk-7952b8255/)
 
