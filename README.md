@@ -1,4 +1,4 @@
-# Hello, I’m Arsenii Zarudniuk
+# Hello, I am Arsenii Zarudniuk
 
 [![Arsenii’s GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniizar&commits_year=2024&show_icons=true)](https://github.com/arseniizar)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arseniizar)](https://github.com/arseniizar)  
