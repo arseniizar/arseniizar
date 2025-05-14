@@ -32,7 +32,8 @@ _CS student at Polish-Japanese Academy of Information Technology in Warsaw & ful
 ## Learning
 
 - ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-- ![](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) · .NET
+- ![](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+
 
 
 ## Current projects
