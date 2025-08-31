@@ -10,7 +10,7 @@ CS student at Polish-Japanese Academy of Information Technology in Warsaw & full
   ![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)  
   ![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
   ![](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-  ![](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+  ![](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)  
   ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 - **Front-end:**  
