@@ -15,7 +15,8 @@ CS student at Polish-Japanese Academy of Information Technology in Warsaw & full
 
 - **Front-end:**  
   ![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-  ![](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+  ![](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
+  ![](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 
 - **Back-end:**  
   ![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
