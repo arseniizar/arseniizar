@@ -27,6 +27,7 @@ CS student at Polish-Japanese Academy of Information Technology in Warsaw & full
   ![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
   ![](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
   ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+  ![](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ## Learning
 
