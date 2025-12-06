@@ -1,8 +1,6 @@
 ## About me 
 CS student at Polish-Japanese Academy of Information Technology in Warsaw and full-stack developer  
 
-## General
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arsenii-zarudniuk-7952b8255/)  
 [![Top Langs](https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Tech stack
