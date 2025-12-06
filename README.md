@@ -1,5 +1,6 @@
 ## About me 
 CS student at Polish-Japanese Academy of Information Technology in Warsaw and full-stack developer  
+
 ## General
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arsenii-zarudniuk-7952b8255/)  
