@@ -2,7 +2,7 @@
 CS student at Polish-Japanese Academy of Information Technology in Warsaw and full-stack developer  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arsenii-zarudniuk-7952b8255/)  
-[![My Languages](https://github-readme-metrics.vercel.app/api/top-langs?username=arseniizar&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseniizar&theme=solarized_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Tech stack
 
