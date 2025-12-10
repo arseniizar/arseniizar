@@ -28,6 +28,11 @@ Computer science student at Polish-Japanese Academy of Information Technology in
   ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
   ![](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
+- **Desktop development:**  
+  ![](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)  
+  ![](https://img.shields.io/badge/Swing-547E99?logo=java&logoColor=white)
+
+
 ## Learning
 
 - ![](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
