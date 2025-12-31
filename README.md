@@ -33,8 +33,9 @@ Computer science student at Polish-Japanese Academy of Information Technology in
   ![](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)  
   ![](https://img.shields.io/badge/Swing-547E99?logo=java&logoColor=white)
 
-- **Tools:**  
+- **DevOps:**  
   ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+  ![](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
   ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ## Learning
