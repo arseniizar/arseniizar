@@ -20,7 +20,9 @@ Computer science student at Polish-Japanese Academy of Information Technology in
 - **Back-end:**  
   ![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
   ![](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
-  ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)  
+  ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+
+- **Event Streaming:**
   ![](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 
 - **Databases:**  
