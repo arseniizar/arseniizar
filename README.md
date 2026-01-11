@@ -22,6 +22,12 @@ Computer science student at Polish-Japanese Academy of Information Technology in
   ![](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
   ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
+- **Python & Automation:**
+  ![alt text](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) **Web Scraping & UI Testing**  
+  ![alt text](https://img.shields.io/badge/Requests-2B3137?logo=python&logoColor=white) **API Integration & Networking**
+  ![alt text](https://img.shields.io/badge/Data_Parsing-XML%2FJSON-orange) **Structured Data Processing**  
+  ![alt text](https://img.shields.io/badge/Scripting-System_Utils-blueviolet) **File System & Automation**
+
 - **Event Streaming:**  
   ![](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 
