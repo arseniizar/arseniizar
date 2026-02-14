@@ -3,7 +3,7 @@ Computer science student at Polish-Japanese Academy of Information Technology in
 
 [![Top Langs](https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arsenii-zarudniuk-7952b8255/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/arseniizar)  
 
 <div align="center">
   <img src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=dark" />
