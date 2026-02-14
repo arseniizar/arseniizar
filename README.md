@@ -3,7 +3,7 @@ Computer science student at Polish-Japanese Academy of Information Technology in
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arsenii-zarudniuk-7952b8255/)  
 [![Top Langs](https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/arseniizar)  
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYOUR_USERNAME&logo=leetcode&logoColor=yellow)](https://leetcode.com/arseniizar/) 
 ## Tech stack
 
 - **Languages:**  
