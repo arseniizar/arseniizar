@@ -79,9 +79,3 @@ Java (Swing GUI with FlatLaf) economic modeling platform with asynchronous, even
 
 **[DBMS-cpp](https://github.com/arseniizar/DBMS-cpp)**  
 Custom C++ database engine featuring SQL parser, query executor, and Qt GUI with syntax-highlighted editor; core logic covered by Google Test
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arseniizar&color=blue&style=flat-square" alt="Profile views" />
-</div>
