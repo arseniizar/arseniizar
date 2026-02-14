@@ -1,13 +1,11 @@
 ## About me 
 Computer science student at Polish-Japanese Academy of Information Technology in Warsaw and full-stack developer  
 
-[![Top Langs](https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arsenii-zarudniuk-7952b8255/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/arseniizar)  
 
 <div align="center">
   <img src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=dark" />
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Noto%20Sans&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/arseniizar?theme=dark&font=Noto%20Sans&ext=heatmap" />
 </div>
 
 ## Tech stack
