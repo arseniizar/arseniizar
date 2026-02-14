@@ -9,6 +9,7 @@ Computer science student at Polish-Japanese Academy of Information Technology in
   <img src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=dark" />
   <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Noto%20Sans&ext=heatmap" />
 </div>
+
 ## Tech stack
 
 - **Languages:**  
