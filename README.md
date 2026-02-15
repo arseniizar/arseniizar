@@ -48,27 +48,3 @@ Full-Stack Developer
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-
----
-
-## Learning
-
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Qt](https://img.shields.io/badge/Qt-0d1117?style=for-the-badge&logo=qt&logoColor=41CD52)
-
----
-
-## Current Projects
-
-**[Queue Management](https://github.com/arseniizar/queue-management)**  
-ReactJS, NestJS, Redis, MongoDB queue management application for employers, employees, and clients with real-time notifications and appointments
-
-**[Model Manager](https://github.com/arseniizar/model-manager)**  
-Java (Swing GUI with FlatLaf) economic modeling platform with asynchronous, event-driven Spring Boot backend utilizing Apache Kafka, Groovy scripting engine, Docker containerization, Kubernetes deployment manifests, and GitHub Actions CI pipeline
-
-**[DBMS-cpp](https://github.com/arseniizar/DBMS-cpp)**  
-Custom C++ database engine featuring SQL parser, query executor, and Qt GUI with syntax-highlighted editor; core logic covered by Google Test
