@@ -14,7 +14,7 @@ Full-Stack Developer
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=arseniizar&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ---
