@@ -2,7 +2,7 @@
 
 <p align="center">
 Computer Science Student at Polish-Japanese Academy of Information Technology, Warsaw<br>
-Full-Stack Developer
+Software Engineer
 </p>
 
 <p align="center">
